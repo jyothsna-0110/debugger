@@ -1,0 +1,21 @@
+{
+  "name": "ustproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^7.0.0-rc.0",
+    "cucumber-html-reporter": "^5.5.0",
+    "properties-reader": "^2.2.0",
+    "protractor": "^7.0.0",
+    "protractor-cucumber-framework": "^8.2.7"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
